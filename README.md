@@ -55,3 +55,4 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+> This template was inspired by the work of JS content creater 'Coding Garden'. See his repo at [`listd github`](https://github.com/CodingGarden/listd)
